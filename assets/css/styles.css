@@ -289,19 +289,19 @@ img{
   z-index: var(--z-back);
 }
 .skills__html{
-  width: 75%;
+  width: 85%;
 }
 .skills__css{
   width: 70%;
 }
 .skills__js{
-  width: 65%;
+  width: 80%;
 }
 .skills__bt{
   width: 60%;
 }
 .skills__node{
-  width: 50%;
+  width: 60%;
 }
 .skills__py{
   width: 60%;
@@ -310,13 +310,13 @@ img{
   width: 50%;
 }
 .skills__java{
-  width: 55%;
+  width: 70%;
 }
 .skills__net{
-  width: 50%;
+  width: 60%;
 }
 .skills__sql{
-  width: 50%;
+  width: 60%;
 }
 .skills__img{
   border-radius: .5rem;
